@@ -15,6 +15,9 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
     display: block;
 }
 
@@ -28,7 +31,12 @@ body {
     color: green;
 }
 
+#testP{
+    color: green;
+}
+
 p {
+    color: black;
     text-align: center;
     white-space: pre-line;
 }
